@@ -3,7 +3,7 @@
 ## Install the template
 
 ```bash
-$ git clone git@github.com:aramirez-es/kata-roar-java.git
+$ git clone git@github.com:albertoramirezscmspain/kata-roar-java.git
 $ cd kata-roar-java
 $ ./gradlew clean build
 ```
