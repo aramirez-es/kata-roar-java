@@ -1,6 +1,7 @@
+package org.kata;
+
 import static org.junit.Assert.assertEquals;
 import org.junit.Test;
-import org.kata.Dist;
 
 public class DistTest {
     @Test
